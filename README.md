@@ -1,6 +1,6 @@
 # Infogram
 
-A modern web application built with React that provides web scraping capabilities with a sleek user interface.
+A modern web application built with React that provides instagram data scraping capabilities with a sleek user interface.
 
 ## Features
 
